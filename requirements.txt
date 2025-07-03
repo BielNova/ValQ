@@ -1,0 +1,7 @@
+langchain==0.2.3
+langchain-community==0.2.3
+langchain-openai==0.1.7
+langchain-unstructured==0.1.6
+openai==1.23.0
+rich
+tiktoken
